@@ -1,0 +1,2 @@
+version=3
+https://pypi.debian.net/eth-keys/eth-keys-(.+)\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))
